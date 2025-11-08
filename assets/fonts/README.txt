@@ -1,0 +1,1 @@
+Place custom font files here if you want to self-host fonts. The project currently uses Google Fonts loaded from CDN.
